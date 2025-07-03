@@ -2,7 +2,7 @@
 
 Sebuah aplikasi mobile berbasis Flutter yang dibangun sebagai platform komunitas untuk menemukan, berbagi, dan memberikan ulasan mengenai tempat makan lokal atau warung.
 
-https://drive.google.com/file/d/1cuRfsQdUi2js4_30uwczVVsRsdhnxcGJ/view?usp=sharing
+Link unutk download aplikasi : https://drive.google.com/file/d/1cuRfsQdUi2js4_30uwczVVsRsdhnxcGJ/view?usp=sharing
 
 ## Fitur Utama
 
