@@ -115,11 +115,7 @@ Proyek ini membutuhkan koneksi ke Firebase. Kamu harus membuat proyek Firebase-m
     ```
 ---
 
-## Author
-
--   **Nama:** [Nama Lengkapmu]
--   **NIM:** [NIM-mu]
--   **Universitas:** [Nama Universitasmu]
+## Tampilan aplikasi
 
 <img src="gambar/login.jpg" width="300"> <img src="gambar/daftar warung.jpg" width="300"> <img src="gambar/detail warung.jpg" width="300">
 <img src="gambar/ulasan.jpg" width="300"> <img src="gambar/input warung.jpg" width="300"> <img src="gambar/peta warung.jpg" width="300"> 
