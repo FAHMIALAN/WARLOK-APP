@@ -16,10 +16,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="gambar/login.jpg" width="300"> <img src="gambar/daftar warung.jpg" width="300">
-
-<img src="gambar/peta warung.jpg" width="300"> <img src="gambar/detail warung.jpg" width="300">
-
-<img src="gambar/input warung.jpg" width="300"> <img src="gambar/ulasan.jpg" width="300">
-
+<img src="gambar/login.jpg" width="300"> <img src="gambar/daftar warung.jpg" width="300"> <img src="gambar/detail warung.jpg" width="300">
+<img src="gambar/ulasan.jpg" width="300"> <img src="gambar/input warung.jpg" width="300"> <img src="gambar/peta warung.jpg" width="300"> 
 <img src="gambar/profil.jpg" width="300"> 
