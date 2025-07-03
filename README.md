@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1cuRfsQdUi2js4_30uwczVVsRsdhnxcGJ/view?usp=shari
 
 Aplikasi ini dibangun dengan arsitektur **Feature-First** untuk memastikan kode tetap rapi, mudah dikelola, dan skalabel.
 
--   **Framework:** Flutter 3.x
+-   **Framework:** Flutter
 -   **Bahasa:** Dart
 -   **Backend:** Firebase (Backend-as-a-Service)
     -   **Firebase Authentication:** Untuk manajemen pengguna.
