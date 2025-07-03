@@ -16,7 +16,7 @@ Link unutk download aplikasi : https://drive.google.com/file/d/1cuRfsQdUi2js4_30
 -   **Sistem Ulasan & Rating:** Pengguna dapat memberikan ulasan berupa rating bintang dan komentar pada setiap warung.
 -   **Fitur Berbasis Lokasi:** Aplikasi dapat meminta izin GPS dan menunjukkan lokasi pengguna di peta untuk mempermudah navigasi.
 -   **Profil Pengguna:** Halaman untuk melihat info akun dan melakukan logout.
--   
+  
 -   **NB:** untuk link gambar yang dimasukan berasal dari https://id.pinterest.com/ sesuaikan gambar yang ingin dimasukan ke dalam aplikasi, link yang di salin yaitu copy image addres contoh : https://i.pinimg.com/736x/e9/34/74/e9347425db4d58d7c4bd99d5dc576a0f.jpg.
 
 ---
