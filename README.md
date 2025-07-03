@@ -91,7 +91,7 @@ Proyek ini membutuhkan koneksi ke Firebase. Kamu harus membuat proyek Firebase-m
 
 1.  **Clone Repository:**
     ```bash
-    git clone [URL_REPOSITORY_GITHUBU_KAMU]
+    git clone []
     cd warlok
     ```
 2.  **Tempatkan File Konfigurasi:**
