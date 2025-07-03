@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397388348126",
+    "project_id": "warlok-722d4",
+    "storage_bucket": "warlok-722d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397388348126:android:95b98e6e20b007683ca04f",
+        "android_client_info": {
+          "package_name": "com.example.warlok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397388348126-qelc2hj3e01oalt76uefla3ltga3ebda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.warlok",
+            "certificate_hash": "c1a690bcb69a0ddfbe91801833bc2b71601ca989"
+          }
+        },
+        {
+          "client_id": "397388348126-ukm14hrpgb5h4r16r69m5g0hkf96r8rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA84eng_JxaQD-AP7mhA2x2Kt4Y0z8Z3-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397388348126-ukm14hrpgb5h4r16r69m5g0hkf96r8rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

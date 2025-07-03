@@ -1,0 +1,54 @@
+name: warlok
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase - Menggunakan versi yang saling kompatibel
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.1
+  cloud_firestore: ^5.0.2
+  firebase_storage: ^12.1.0
+  google_sign_in: ^6.2.1
+
+  # Peta & Lokasi
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  
+  # Utility
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.1.2
+  intl: ^0.19.0
+  geolocator: ^14.0.1
+  location: ^8.0.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.4
+
+
+flutter:
+  uses-material-design: true
+
+  # Mengaktifkan folder assets agar gambar ikon bisa dibaca
+  assets:
+    - assets/images/
+
+
+# Konfigurasi untuk package flutter_launcher_icons
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"
+  min_sdk_android: 21
